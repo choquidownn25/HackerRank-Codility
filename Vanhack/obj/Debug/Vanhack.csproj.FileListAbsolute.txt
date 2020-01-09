@@ -1,0 +1,7 @@
+C:\Users\Jose\source\repos\Codility Uno\Vanhack\bin\Debug\Vanhack.exe.config
+C:\Users\Jose\source\repos\Codility Uno\Vanhack\bin\Debug\Vanhack.exe
+C:\Users\Jose\source\repos\Codility Uno\Vanhack\bin\Debug\Vanhack.pdb
+C:\Users\Jose\source\repos\Codility Uno\Vanhack\obj\Debug\Vanhack.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\Codility Uno\Vanhack\obj\Debug\Vanhack.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Codility Uno\Vanhack\obj\Debug\Vanhack.exe
+C:\Users\Jose\source\repos\Codility Uno\Vanhack\obj\Debug\Vanhack.pdb

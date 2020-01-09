@@ -1,0 +1,7 @@
+C:\Users\Jose\source\repos\Codility Uno\Vanck02\bin\Debug\Vanck02.exe.config
+C:\Users\Jose\source\repos\Codility Uno\Vanck02\bin\Debug\Vanck02.exe
+C:\Users\Jose\source\repos\Codility Uno\Vanck02\bin\Debug\Vanck02.pdb
+C:\Users\Jose\source\repos\Codility Uno\Vanck02\obj\Debug\Vanck02.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\Codility Uno\Vanck02\obj\Debug\Vanck02.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Codility Uno\Vanck02\obj\Debug\Vanck02.exe
+C:\Users\Jose\source\repos\Codility Uno\Vanck02\obj\Debug\Vanck02.pdb

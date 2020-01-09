@@ -1,0 +1,7 @@
+C:\Users\Jose\source\repos\Codility Uno\Codility dos\bin\Debug\Codility dos.exe.config
+C:\Users\Jose\source\repos\Codility Uno\Codility dos\bin\Debug\Codility dos.exe
+C:\Users\Jose\source\repos\Codility Uno\Codility dos\bin\Debug\Codility dos.pdb
+C:\Users\Jose\source\repos\Codility Uno\Codility dos\obj\Debug\Codility dos.csprojAssemblyReference.cache
+C:\Users\Jose\source\repos\Codility Uno\Codility dos\obj\Debug\Codility dos.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Codility Uno\Codility dos\obj\Debug\Codility dos.exe
+C:\Users\Jose\source\repos\Codility Uno\Codility dos\obj\Debug\Codility dos.pdb
