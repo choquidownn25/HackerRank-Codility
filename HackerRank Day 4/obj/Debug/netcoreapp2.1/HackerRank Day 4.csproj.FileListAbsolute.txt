@@ -1,0 +1,10 @@
+C:\Users\Jose\source\repos\Codility Uno\HackerRank Day 4\bin\Debug\netcoreapp2.1\HackerRank Day 4.deps.json
+C:\Users\Jose\source\repos\Codility Uno\HackerRank Day 4\bin\Debug\netcoreapp2.1\HackerRank Day 4.runtimeconfig.json
+C:\Users\Jose\source\repos\Codility Uno\HackerRank Day 4\bin\Debug\netcoreapp2.1\HackerRank Day 4.runtimeconfig.dev.json
+C:\Users\Jose\source\repos\Codility Uno\HackerRank Day 4\bin\Debug\netcoreapp2.1\HackerRank Day 4.dll
+C:\Users\Jose\source\repos\Codility Uno\HackerRank Day 4\bin\Debug\netcoreapp2.1\HackerRank Day 4.pdb
+C:\Users\Jose\source\repos\Codility Uno\HackerRank Day 4\obj\Debug\netcoreapp2.1\HackerRank Day 4.csproj.CoreCompileInputs.cache
+C:\Users\Jose\source\repos\Codility Uno\HackerRank Day 4\obj\Debug\netcoreapp2.1\HackerRank Day 4.AssemblyInfoInputs.cache
+C:\Users\Jose\source\repos\Codility Uno\HackerRank Day 4\obj\Debug\netcoreapp2.1\HackerRank Day 4.AssemblyInfo.cs
+C:\Users\Jose\source\repos\Codility Uno\HackerRank Day 4\obj\Debug\netcoreapp2.1\HackerRank Day 4.dll
+C:\Users\Jose\source\repos\Codility Uno\HackerRank Day 4\obj\Debug\netcoreapp2.1\HackerRank Day 4.pdb
